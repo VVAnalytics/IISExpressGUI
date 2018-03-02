@@ -1,0 +1,9 @@
+C:\Users\phili\Source\Repos\IISExpressGUI2\IISExpressGui\IISExpressGui.IISManagement\bin\Debug\IISExpressGui.IISManagement.dll
+C:\Users\phili\Source\Repos\IISExpressGUI2\IISExpressGui\IISExpressGui.IISManagement\bin\Debug\IISExpressGui.IISManagement.pdb
+C:\Users\phili\Source\Repos\IISExpressGUI2\IISExpressGui\IISExpressGui.IISManagement\bin\Debug\IISExpressGui.Domain.dll
+C:\Users\phili\Source\Repos\IISExpressGUI2\IISExpressGui\IISExpressGui.IISManagement\bin\Debug\IISExpressGui.Domain.pdb
+C:\Users\phili\Source\Repos\IISExpressGUI2\IISExpressGui\IISExpressGui.IISManagement\obj\Debug\IISExpressGui.IISManagement.csproj.AssemblyReference.cache
+C:\Users\phili\Source\Repos\IISExpressGUI2\IISExpressGui\IISExpressGui.IISManagement\obj\Debug\IISExpressGui.IISManagement.csproj.CoreCompileInputs.cache
+C:\Users\phili\Source\Repos\IISExpressGUI2\IISExpressGui\IISExpressGui.IISManagement\obj\Debug\IISExpressGui.IISManagement.csproj.CopyComplete
+C:\Users\phili\Source\Repos\IISExpressGUI2\IISExpressGui\IISExpressGui.IISManagement\obj\Debug\IISExpressGui.IISManagement.dll
+C:\Users\phili\Source\Repos\IISExpressGUI2\IISExpressGui\IISExpressGui.IISManagement\obj\Debug\IISExpressGui.IISManagement.pdb

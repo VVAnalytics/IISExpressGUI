@@ -1,0 +1,9 @@
+C:\Users\phili\Source\Repos\IISExpressGUI2\IISExpressGui\IISExpressGui.Fixtures\bin\Debug\IISExpressGui.Fixtures.dll
+C:\Users\phili\Source\Repos\IISExpressGUI2\IISExpressGui\IISExpressGui.Fixtures\bin\Debug\IISExpressGui.Fixtures.pdb
+C:\Users\phili\Source\Repos\IISExpressGUI2\IISExpressGui\IISExpressGui.Fixtures\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\phili\Source\Repos\IISExpressGUI2\IISExpressGui\IISExpressGui.Fixtures\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\phili\Source\Repos\IISExpressGUI2\IISExpressGui\IISExpressGui.Fixtures\obj\Debug\IISExpressGui.Fixtures.csproj.AssemblyReference.cache
+C:\Users\phili\Source\Repos\IISExpressGUI2\IISExpressGui\IISExpressGui.Fixtures\obj\Debug\IISExpressGui.Fixtures.csproj.CoreCompileInputs.cache
+C:\Users\phili\Source\Repos\IISExpressGUI2\IISExpressGui\IISExpressGui.Fixtures\obj\Debug\IISExpressGui.Fixtures.csproj.CopyComplete
+C:\Users\phili\Source\Repos\IISExpressGUI2\IISExpressGui\IISExpressGui.Fixtures\obj\Debug\IISExpressGui.Fixtures.dll
+C:\Users\phili\Source\Repos\IISExpressGUI2\IISExpressGui\IISExpressGui.Fixtures\obj\Debug\IISExpressGui.Fixtures.pdb
