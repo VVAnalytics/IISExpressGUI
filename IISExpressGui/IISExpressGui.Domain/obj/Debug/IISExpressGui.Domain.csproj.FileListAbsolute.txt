@@ -1,6 +1,6 @@
-C:\Users\phili\Source\Repos\IISExpressGUI2\IISExpressGui\IISExpressGui.Domain\bin\Debug\IISExpressGui.Domain.dll
-C:\Users\phili\Source\Repos\IISExpressGUI2\IISExpressGui\IISExpressGui.Domain\bin\Debug\IISExpressGui.Domain.pdb
-C:\Users\phili\Source\Repos\IISExpressGUI2\IISExpressGui\IISExpressGui.Domain\obj\Debug\IISExpressGui.Domain.csproj.AssemblyReference.cache
-C:\Users\phili\Source\Repos\IISExpressGUI2\IISExpressGui\IISExpressGui.Domain\obj\Debug\IISExpressGui.Domain.csproj.CoreCompileInputs.cache
-C:\Users\phili\Source\Repos\IISExpressGUI2\IISExpressGui\IISExpressGui.Domain\obj\Debug\IISExpressGui.Domain.dll
-C:\Users\phili\Source\Repos\IISExpressGUI2\IISExpressGui\IISExpressGui.Domain\obj\Debug\IISExpressGui.Domain.pdb
+C:\Users\phili\source\repos\IISExpressGUI\IISExpressGui\IISExpressGui.Domain\bin\Debug\IISExpressGui.Domain.dll
+C:\Users\phili\source\repos\IISExpressGUI\IISExpressGui\IISExpressGui.Domain\bin\Debug\IISExpressGui.Domain.pdb
+C:\Users\phili\source\repos\IISExpressGUI\IISExpressGui\IISExpressGui.Domain\obj\Debug\IISExpressGui.Domain.csproj.AssemblyReference.cache
+C:\Users\phili\source\repos\IISExpressGUI\IISExpressGui\IISExpressGui.Domain\obj\Debug\IISExpressGui.Domain.csproj.CoreCompileInputs.cache
+C:\Users\phili\source\repos\IISExpressGUI\IISExpressGui\IISExpressGui.Domain\obj\Debug\IISExpressGui.Domain.dll
+C:\Users\phili\source\repos\IISExpressGUI\IISExpressGui\IISExpressGui.Domain\obj\Debug\IISExpressGui.Domain.pdb
